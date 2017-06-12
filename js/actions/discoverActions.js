@@ -1,0 +1,4 @@
+export const GO_TO_SEARCH = "GO_TO_SEARCH"
+export const GO_TO_STORY = "GO_TO_STORY"
+export const GET_DISCOVER_DATA = "GET_DISCOVER_DATA"
+export const DISCOVER_DATA_GOT = "DISCOVER_DATA_GOT"

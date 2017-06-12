@@ -1,0 +1,7 @@
+export const TOP_BANNER_LIST = "top_banner_list"
+export const STORY_LIST = "storyList"
+export const CHAPTER_NUMBER = "chapter_number"
+export const NAME = "name"
+export const TEXT = "text"
+export const WORDS_COUNT = "words_count"
+// export const CHAPTER_NUMBER ="chapter_number"
